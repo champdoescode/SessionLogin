@@ -1,0 +1,7 @@
+ tr, th, td {
+    padding: 16px;
+    border: none;
+}
+th{
+    text-align: left;
+}
